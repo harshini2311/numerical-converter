@@ -1,0 +1,27 @@
+Decimal numbers:
+42
+1234
+7890
+256
+4096
+
+Binary numbers (prefix with "0b" to indicate binary in JavaScript):
+1010 (Decimal: 10)
+1101 (Decimal: 13)
+11100 (Decimal: 28)
+1001101 (Decimal: 77)
+10101010 (Decimal: 170)
+
+Hexadecimal numbers (prefix with "0x" to indicate hexadecimal in JavaScript):
+0x1A (Decimal: 26)
+0xFF (Decimal: 255)
+0x3E8 (Decimal: 1000)
+0x7FFF (Decimal: 32767)
+0x1F4 (Decimal: 500)
+
+Octal numbers (prefix with "0o" to indicate octal in JavaScript):
+10 (Decimal: 8)
+20 (Decimal: 16)
+50 (Decimal: 40)
+100 (Decimal: 64)
+377 (Decimal: 255)
